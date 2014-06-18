@@ -1,4 +1,4 @@
-var computer = 1; //initial the game is with the computer
+var computer = 1; //initial the game with the computer
 var gamer = "X"; //symbol of the current player
 
 $(document).ready(function () {
